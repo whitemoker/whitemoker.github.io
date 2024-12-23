@@ -1,8 +1,8 @@
-# 分词算法
+# 一级标题
 不支持快捷键，比如ctrl+1无法快捷设置标题一。
-## WordPiece
-
-### BPE (Byte-Pair Encoding)
+## 二级标题
+### 三级标题
+#### 四级标题
 
 **hello**
 这是一个普通的句子，<mark>这是高亮的文本，hello</mark>。
