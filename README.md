@@ -1,1 +1,1 @@
-# whitemoker.github.io
+# whitemoker's blog
