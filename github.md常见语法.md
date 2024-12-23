@@ -1,0 +1,18 @@
+# 分词算法
+不支持快捷键，比如ctrl+1无法快捷设置标题一。
+## WordPiece
+
+### BPE (Byte-Pair Encoding)
+
+**hello**
+这是一个普通的句子，<mark>这是高亮的文本，hello</mark>。
+高亮使用的是html的语法，`因为原生md不支持高亮语法`。
+```
+行内公式仍然是使用$隔开，但是行间公式是\$$ 隔开的，与typora有所不同。
+```
+$s \times b$
+
+
+\$$
+a \times b
+\$$
