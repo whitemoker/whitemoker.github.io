@@ -1,0 +1,22 @@
+theme: minima
+lang: zh
+author: 孙骏
+title: 博客
+paginate: 7
+baseurl: /
+description: >
+  博客
+
+github_username: whitemoker
+rss: rss
+show_excerpts: true
+excerpt_separator: <!--more-->
+
+header_pages:
+ - about.md
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+feed:
+  path: feed.xml
